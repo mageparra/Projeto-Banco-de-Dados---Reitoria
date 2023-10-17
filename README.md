@@ -4,7 +4,7 @@
 
 <h2>Objetivo</h2>
 
-<p>O objetivo deste projeto foi conciliar um trabalho de minha faculdade com meu interesse em SQL, aplicando meus conhecimentos de forma prática e didática. Durante o desenvolvimento, aprendi mais sobre gerenciamento de bancos de dados e consultas SQL, aprimorando minhas habilidades de modelagem de informações.</p>
+<p>O objetivo deste projeto foi conciliar um trabalho da disciplina "Banco de Dados Relacional" com meu interesse em SQL, aplicando meus conhecimentos de forma prática e didática. Durante o desenvolvimento, aprendi mais sobre gerenciamento de bancos de dados e consultas SQL, aprimorando minhas habilidades de modelagem de informações.</p>
 
 <h2>Status: Projeto Finalizado ✅</h2>
 
