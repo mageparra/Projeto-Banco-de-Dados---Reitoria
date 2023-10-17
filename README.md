@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Banco de Dados - Reitoria 🚀</h1>
+<h1 align="center">Projeto Banco de Dados - Reitoria 📚 </h1>
 
 <p align="center">O Projeto Banco de Dados - Reitoria é um sistema de banco de dados que armazena informações sobre alunos ficticios. Através dele, é possível consultar detalhes diversos, como seu ID, Nome, Curso, Faculdade, Histórico, Ano letivo e muito mais. O projeto foi desenvolvido utilizando a linguagem SQL, com foco no banco de dados MySQL.</p>
 
